@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Frontend,Backend**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/abutidze-dato-9056aa294/](https://www.linkedin.com/in/abutidze-dato-9056aa294/)
+- 👨‍💻 All of my projects are available at [https://portfolio-dvt.vercel.app/](https://portfolio-dvt.vercel.app/)
 
 - 📫 How to reach me **abutidzedato81@gmail.com**
 
