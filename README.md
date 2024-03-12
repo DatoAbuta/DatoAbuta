@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Frontend,Backend**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-dvt.vercel.app/](https://portfolio-dvt.vercel.app/)
+- 👨‍💻 All of my projects are available [https://portfolio-dvt.vercel.app/](On My Portfolio)
 
 - 📫 How to reach me **abutidzedato81@gmail.com**
 
