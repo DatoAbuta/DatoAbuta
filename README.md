@@ -1,4 +1,7 @@
-<img align="center" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+<div align="center">
+  <img align="center" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+</div>
+
 <h1 align="center">Hi 👋, I'm Dato Abutidze</h1>
 <h3 align="center">A frontend developer from Georgia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
