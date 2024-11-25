@@ -8,9 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=david69699&label=Profile%20views&color=0e75b6&style=flat" alt="david69699" /> </p>
 
-- 🔭 I’m currently taking course at [Re:educate](https://reeducate.space/)
+- 🔭 I’m currently working at [Re:educate](https://reeducate.space/) ( Teaching Assistant )
 
-- 🌱 I’m currently learning **Frontend,Backend**
+- 🌱 I’m currently working as **Frontend,Backend** Developer
 
 - 👨‍💻 All of my projects are available
 [On My Portfolio](https://portfolio-dvt.vercel.app/)
